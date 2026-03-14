@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @Suhas-K-P
-- 👀 I’m interested in Web development, Python ad AI.
-- 🌱 I’m currently learning  Web development.
-- 💞️ I’m looking to collaborate on  doing projects
-- 📫 How to reach me gmail:suhaskp008@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi, I'm Suhas 👋
 
-<!---
-Suhas-K-P/Suhas-K-P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Engineer | Python Backend Developer  
+📍 Bengaluru, India  
+
+I enjoy building backend systems, analyzing large datasets, and solving real-world engineering problems.
+
+## 🚀 About Me
+- 🎓 B.E. in Information Science and Engineering (2025)
+- 💼 Former Data Science Intern at Radware
+- 🔍 Worked on large-scale web traffic analysis and bot detection across 15,000+ environments
+- 🌱 Currently improving my skills in backend development and system design
+
+## 🛠 Tech Stack
+**Languages:** Python, Java, C  
+**Backend:** FastAPI, REST APIs, SQLAlchemy  
+**Databases:** MySQL, Redis, Google BigQuery, Elasticsearch  
+**Web:** HTML, CSS, JavaScript  
+
+## 📌 Projects
+- Bot Detection & Mitigation System  
+- Exam Seat Distribution System  
+- Student Assistance System  
+
+## 📫 Contact
+Email: **suhaskp008@gmail.com**
+linkdin: https://www.linkedin.com/in/suhas-k-p-61a41122a/
+X (twitter): https://x.com/Suhas_K_P_
