@@ -24,5 +24,5 @@ I enjoy building backend systems, analyzing large datasets, and solving real-wor
 
 ## 📫 Contact
 Email: **suhaskp008@gmail.com**
-linkdin: https://www.linkedin.com/in/suhas-k-p-61a41122a/
-X (twitter): (https://x.com/Suhas_K_P_)
+LinkedIn: https://www.linkedin.com/in/suhas-k-p-61a41122a/
+X (Twitter): https://x.com/Suhas_K_P_
