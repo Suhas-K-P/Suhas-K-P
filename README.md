@@ -7,7 +7,7 @@ I enjoy building backend systems, analyzing large datasets, and solving real-wor
 
 ## 🚀 About Me
 - 🎓 B.E. in Information Science and Engineering (2025)
-- 💼 Former Data Science Intern at Radware
+- 💼 Former Software Engineer Intern at Radware
 - 🔍 Worked on large-scale web traffic analysis and bot detection across 15,000+ environments
 - 🌱 Currently improving my skills in backend development and system design
 
