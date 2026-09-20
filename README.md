@@ -23,6 +23,6 @@ I enjoy building backend systems, analyzing large datasets, and solving real-wor
 - Student Assistance System  
 
 ## 📫 Contact
-Email: suhaskp008@gmail.com
-LinkedIn: https://www.linkedin.com/in/suhas-k-p-61a41122a/
-X (Twitter): https://x.com/Suhas_K_P_/
+Email: suhaskp008@gmail.com <br>
+LinkedIn: https://www.linkedin.com/in/suhas-k-p-61a41122a/ <br>
+X (Twitter): https://x.com/Suhas_K_P_/ 
