@@ -1,28 +1,45 @@
 # Hi, I'm Suhas 👋
 
-💻 Software Engineer | Python Backend Developer  
-📍 Bengaluru, India  
+**Software Engineer | Python | AI Engineering**
 
-I enjoy building backend systems, analyzing large datasets, and solving real-world engineering problems.
+I'm a software engineer interested in building useful software, understanding how systems work, and exploring the intersection of software engineering and AI.
 
-## 🚀 About Me
+Currently working at **Scienaptic AI**, while continuously learning, experimenting, and building projects with Python and AI technologies.
+
+### A little about me
+
+- 💻 Software Engineer at Scienaptic AI
 - 🎓 B.E. in Information Science and Engineering (2025)
-- 💼 Former Software Engineer Intern at Radware
-- 🔍 Worked on large-scale web traffic analysis and bot detection across 15,000+ environments
-- 🌱 Currently improving my skills in backend development and system design
+- 🐍 Working with Python, FastAPI, SQL and backend technologies
+- 🤖 Exploring AI engineering, LLM applications, and AI agents
+- 🧠 Interested in system design, software architecture, and problem-solving
+- ✍️ I enjoy reading, writing, and sharing what I learn.
 
-## 🛠 Tech Stack
-**Languages:** Python, Java, C  
-**Backend:** FastAPI, REST APIs, SQLAlchemy  
-**Databases:** MySQL, Redis, Google BigQuery, Elasticsearch  
-**Web:** HTML, CSS, JavaScript  
+### Technologies & Tools
 
-## 📌 Projects
-- Bot Detection & Mitigation System  
-- Exam Seat Distribution System  
-- Student Assistance System  
+**Languages:** Python, Java, C
 
-## 📫 Contact
-Email: suhaskp008@gmail.com <br>
-LinkedIn: https://www.linkedin.com/in/suhas-k-p-61a41122a/ <br>
-X (Twitter): https://x.com/Suhas_K_P_/ 
+**Backend:** FastAPI, REST APIs, SQLAlchemy
+
+**Databases:** PostgreSQL, MySQL, Redis
+
+**AI & Emerging Technologies:** LLMs, LangChain, LangGraph, MCP
+
+**Tools:** Git, GitHub, Docker, VS Code
+
+### What I'm working on
+
+- Strengthening my Python and software engineering fundamentals.
+- Building practical applications using FastAPI and PostgreSQL.
+- Exploring LLM-powered applications, agents, and MCP servers.
+- Understanding how to build reliable, production-ready AI systems.
+
+### Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/suhas-k-p-61a41122a/)
+- [X (Twitter)](https://x.com/Suhas_K_P_/)
+- [Email](mailto:suhaskp008@gmail.com)
+
+---
+
+*Always learning. Always building.*
