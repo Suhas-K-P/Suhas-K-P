@@ -1,4 +1,4 @@
-# Hi, I'm Suhas 👋
+# Hi, I'm Suhas 
 
 **Software Engineer | Python | AI Engineering**
 
